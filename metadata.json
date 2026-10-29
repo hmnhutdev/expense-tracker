@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker PWA",
+  "description": "Offline-first Expense Tracker PWA built with React, TypeScript, Dexie.js, Recharts, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

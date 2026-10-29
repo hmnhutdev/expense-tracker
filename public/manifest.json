@@ -1,0 +1,18 @@
+{
+  "name": "Expense Tracker PWA",
+  "short_name": "Expense Tracker",
+  "description": "Ứng dụng quản lý thu chi cá nhân Offline-first với Dexie.js và React",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='128' fill='%23059669'/><path d='M160 160h192v192H160z' fill='none' stroke='white' stroke-width='32'/><circle cx='256' cy='256' r='48' fill='white'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
